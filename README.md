@@ -92,7 +92,7 @@ The dataset contains sales transactions from three different branches of Walmart
 - Which customer type buys the most?
 - What is the gender distribution among customers?
 - Which time of day do customers give the most ratings?
-- Which day of the week has the best average ratings?
+- Which day of the week has the best average ratings per branch?
 
 ## Revenue and Profit Calculations
 - **COGS** = unit_price × quantity
